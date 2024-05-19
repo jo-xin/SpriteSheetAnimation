@@ -11,3 +11,10 @@ more friendly prompts
 better code refactoring
 
 ...
+
+
+
+
+PS
+
+as i'm not familiar with git, i use gitkraken and this made the commit owners not me
