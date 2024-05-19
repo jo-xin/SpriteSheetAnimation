@@ -5,9 +5,9 @@ as I'm new in python, I'm not sure if just uploading all files in my pycharm pro
 
 # TODO
 
-when split another sheet while playing the animation, the program will fail
+when splitting another sheet while playing the animation, the program will fail
 
-as gif does not work
+saving as gif does not work
 
 more friendly prompts
 
